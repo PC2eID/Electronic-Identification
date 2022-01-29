@@ -1,5 +1,5 @@
-Web3 W3C-DID-based eID Trust Service
-# Electronic-Identification
+W3C-DID-based Electronic Identification Trust Service for Citizens
+# Web3 W3C-DIDComm eID-VCs 
 Verifiable Credentials
 eIDAS Qualified Digital Signatures
 Swiss DLT Act Registered Private Key Recovery 
