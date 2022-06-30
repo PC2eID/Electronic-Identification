@@ -26,8 +26,11 @@ EIRA© (European Interoperability Reference Architecture), which defines the fun
 Designing an NFID-Dfinity IC-based Swiss eID as a collaborative non-competitive component of EIRA© in support of:
 
  a.	the Q1 2022 Swisscom and Orell Füssli digital certificate partnership, 
+ 
  b.	the Q1 2022 SwissSign SSI-joint State of Aargau and Adnovum project, 
+ 
  c.	the State of Zug decentralised identity for eGov ti&m, HSLU, and, 
+ 
  d.	uPort project could be a low-hanging fruit opportunity.
 
 Considered the most advanced Swiss eID projects with considerable resources, they may find NFIDs build on the only entirely non-profit Swiss Web3 Foundation's synergistic value proposition. Based on NFIDs, FIDO2/WebAuthn innovations - are built on the Dfinity's enterprise-web speed public blockchain, the Internet Computer.
@@ -55,9 +58,9 @@ The proposed collobarative Use Case provides the SBB for low-cost, low-effort de
 
 Designed to be in compliance with not only the E.U. privacy laws consisting of the 
 
-General Data Protection Regulation (GDPR), 
-the ePrivacy Directive (ePD) and 
-the European Data Protection Board. (EDPB) 
+* General Data Protection Regulation (GDPR), 
+* the ePrivacy Directive (ePD) and 
+* the European Data Protection Board. (EDPB) 
 
 The robust privacy invoked by E.U. data protection regulations is based on the constitutional privacy declarations in the EU Charter of Fundamental Rights: Articles 7 and 8 mandate individual E.U. citizens the respect for private life and the protection of personal data.
 
@@ -66,20 +69,35 @@ They are forming the most enforceable transparent, accountable data protection r
 By monetizing the wave of NexGen eTrust Regulation guidelines on enforcement in the E.U. and the privacy decision directives in the pipeline:
 
 ° the Artificial Intelligence Act (AIA)
+
 ° the Data Act (DA)
+
 ° the Data Governance Act (DGA)
+
 ° the European Digital Identity Framework (EDIF)
+
 ° the Digital Markets Act (DMA)
+
 ° the Digital Services Act (DSA)
+
 ° the European Health Data Space (EHDS)
+
 ° the European Telecommunications Standards Institute (ETSI) Identity Proofing Standard
+
 ° the Revised Payment Service Directive (PSD2)
+
 ° the 5th Anti Money Laundering Directive (AML5)
+
 ° the Markets in Financial Instruments Directive (MiFID II)
+
 ° the European Blockchain Services Infrastructure (EBSI)
+
 ° the Standard contractual Clauses (SCC)
+
 ° the new electronic IDentification, Authentic and trust Services (eIDAS 2.0)
+
 ° the Architecture and Reference Framework (ARF) Toolkit
+
 
 In convergence with the (fully-revised) 2022 Swiss Federal Data Protection Act (FADP) and the New Swiss DLT Act, they facilitate digital identity for all European citizens and a new universal standard for the world.
 
