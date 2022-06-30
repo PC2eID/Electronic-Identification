@@ -25,9 +25,9 @@ EIRA© (European Interoperability Reference Architecture), which defines the fun
 
 Designing an NFID-Dfinity IC-based Swiss eID as a collaborative non-competitive component of EIRA© in support of:
 
- a.	the Q1 2022 Swisscom and Orell Füssli digital certificate partnership 
- b.	the Q1 2022 SwissSign SSI-joint State of Aargau and Adnovum project 
- c.	the State of Zug decentralised identity for eGov ti&m, HSLU, and 
+ a.	the Q1 2022 Swisscom and Orell Füssli digital certificate partnership, 
+ b.	the Q1 2022 SwissSign SSI-joint State of Aargau and Adnovum project, 
+ c.	the State of Zug decentralised identity for eGov ti&m, HSLU, and, 
  d.	uPort project could be a low-hanging fruit opportunity.
 
 Considered the most advanced Swiss eID projects with considerable resources, they may find NFIDs build on the only entirely non-profit Swiss Web3 Foundation's synergistic value proposition. Based on NFIDs, FIDO2/WebAuthn innovations - are built on the Dfinity's enterprise-web speed public blockchain, the Internet Computer.
