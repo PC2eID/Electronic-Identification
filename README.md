@@ -1,5 +1,9 @@
 Positioning NFID as the Internet Computer "Gold-Standard" Key-Management plug-in across the European Free Trade Association (EFTA) / European Economic Area (EEA) in advance of the September 2022 eIDAS2 'toolbox' release is the primary focus of this updated Swiss Electronic Identification (eID) Use Case.
 
+The Dfinity Internet Identity Anchor ~/.config/dfx/identity/<identity_name>/identity.pem 
+
+in its current realease as well as NFID offers a more privacy-proserving and scalable onboarding and secure key management then the eIDAS2 Toolbox proposed use of FIDO2 in a federated eIDAS-Node SAMLv2 environment. 
+
 “Without too much fanfare, the European Commission has recently put forward plans that might cause the largest leap forward in the European digital identity scene in the past twenty years” 
 
 https://www.ubisecure.com/authentication/european-digital-identity-framework/
