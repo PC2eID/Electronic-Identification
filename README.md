@@ -1,6 +1,12 @@
 Positioning NFID as the Internet Computer "Gold-Standard" Key-Management plug-in across the European Free Trade Association (EFTA) / European Economic Area (EEA) in advance of the September 2022 eIDAS2 'toolbox' release is the primary focus of this updated Swiss Electronic Identification (eID) Use Case.
 
-"With eIDAS 2, the E.U. Commission intends to make cross-border e-ID a reality. In a nutshell, by 2023, every E.U. member state must make a Digital Identity Wallet available to every citizen who wants one." https://www.thalesgroup.com/en/markets/digital-identity-and-security/government/identity/eidas-regulations
+“Without too much fanfare, the European Commission has recently put forward plans that might cause the largest leap forward in the European digital identity scene in the past twenty years” 
+
+https://www.ubisecure.com/authentication/european-digital-identity-framework/
+
+"With eIDAS 2, the E.U. Commission intends to make cross-border e-ID a reality. In a nutshell, by 2023, every E.U. member state must make a Digital Identity Wallet available to every citizen who wants one." 
+
+https://www.thalesgroup.com/en/markets/digital-identity-and-security/government/identity/eidas-regulations
 
 The countdown for E.U. member state governments', private-sector SMEs, investors, developers, and entrepreneurs vying to update pre-notified/notified national eID schemes infrastructure under the prior eIDAS (electronic identification, strong authentication and trust services) has begun.
 
@@ -22,6 +28,10 @@ eIDAS legal framework for electronic signatures was subsequently amended in the 
 E.U. nations will be mandated to build an architecture to launch and support the new cross-border EDIW national eID schemes in 2023.
 
 EIRA© (European Interoperability Reference Architecture), which defines the functionality of eIDAS 2.0, proposes to mandate for the EUDIW via autonomous and (re)usable EIRA© Solution Building Block (SBB) that map to Architecture Building Blocks (ABBs) of EIRA©
+
+“The starting point for the building of the e-ID ecosystem will be the issuance of the e-ID itself, together with e-ID enabled digital signatures. The Swiss government has the political mandate for this implementation. This will kick off two parallel work streams. One will focus on developing demonstrators that show potential use cases in a sandbox setting, the other on designing and building infrastructure and governance.”
+
+https://www.procivis.ch/post/blog-post-der-neue-gesetzesentwurf-zur-e-id-in-der-schweiz
 
 Designing an NFID-Dfinity IC-based Swiss eID as a collaborative non-competitive component of EIRA© in support of:
 
