@@ -1,10 +1,98 @@
-Positioning NFID FIDO2-WebAuthn as the Internet Computer, Service Nervous System "Gold-Standard" Key-Management plug-in across the European Free Trade Association (EFTA) / European Economic Area (EEA) in advance of the September 2022 eIDAS2 'toolbox' release: the primary focus of this updated Swiss Electronic Identification (eID) Use Case.
+Positioning NFID FIDO2-WebAuthn as the Internet Computer, Service Nervous System "Gold-Standard" Key-Management plug-in across the European Free Trade Association (EFTA) / European Economic Area (EEA) in advance of the September 2022 eIDAS2 'toolbox' release: 
+
+The primary focus of this updated Swiss Principal Canister (PC) Electronic Identification (eID) Use Case
 
  ~/.config/dfx/identity/<identity_name>/identity.pem 
 
-In its current release, the Dfinity Internet Identity Anchor provides NFID a more privacy-preserving and scalable onboarding and a secure key management infrastructure than the eIDAS2 Toolbox using FIDO2 in a federated eIDAS-Node SAMLv2 environment. 
+In its current release, the Dfinity Internet Identity Anchor provides NFID a Web3 secure key management infrastructure to extend IIA's scalable privacy-preserving onboarding. 
 
-"Without too much fanfare, the European Commission has recently put forward plans that might cause the largest leap forward in the European digital identity scene in the past twenty years."  
+NFID unlinkable identity-account flexibility, i.e., single-step multi-credential (accounts) per the application default setting, is one of several USPs.  
+
+The anonymous by default, privacy by design NFID features (properly deployed) will achieve GDPR Art. 17, 20, and 25 compliance. 
+
+Enabling the Swiss PCeID, EU regulator-compliance monetization model to offer user-friendly IAM incentives via user-profile modules. 
+
+Each module is a "Virtual Smart-Instance" process in compliance with Art.  17 right to be forgotten. Incentivising, personal data, and digital asset tokenized value creation that benefits the individual. 
+
+Regulated to only specific canister automated-workflows for the user, which may require selectively-disclosed data access consent--transparent regulatory assurances and GDPR complaint, eIDAS interoperable consent logs: access logs, error logs, and security audit logs—enabling real-time discrepancy reporting.
+
+IC subnets interoperable with eIDAS, European blockchain infrastructure distributed nodes, could enable clear-line-of-liability for service EU cross-border access to ePublic services and eCommerce.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Positioning NFID FIDO2-WebAuthn as the Internet Computer, Service Nervous System "Gold-Standard" Key-Management plug-in across the European Free Trade Association (EFTA) / European Economic Area (EEA) in advance of the September 2022 eIDAS2 'toolbox' release: 
+
+The primary focus of this updated Swiss Principal Canister (PC) Electronic Identification (eID) Use Case
+
+ ~/.config/dfx/identity/<identity_name>/identity.pem 
+
+In its current release, the Dfinity Internet Identity Anchor provides NFID a Web3 secure key management infrastructure to extend IIA's scalable privacy-preserving onboarding. 
+
+NFID unlinkable identity-account flexibility, i.e., single-step multi-credential (accounts) per the application default setting, is one of several USPs.  
+
+The anonymous by default, privacy by design NFID features (properly deployed in the EEA) will achieve GDPR Art. 17, 20, and 25 compliance. 
+
+Enabling the Swiss PCeID, EU regulator-compliance monetization model to offer user-friendly IAM incentives via user-profile modules. 
+
+Each module is envisioned as a "Virtual Smart-Instance" process in compliance with Art. 17 - Right to erasure (right to be forgotten). 
+
+Incentivising, personal data, and digital asset Positioning NFID FIDO2-WebAuthn as the Internet Computer, Service Nervous System "Gold-Standard" Key-Management plug-in across the European Free Trade Association (EFTA) / European Economic Area (EEA) in advance of the September 2022 eIDAS2 'toolbox' release: 
+
+Regulated to only specific canister automated-workflows for the user, which may require selectively-disclosed data access consent--transparent regulatory assurances and GDPR complaint, eIDAS interoperable consent logs: access logs, error logs, and security audit logs—enabling real-time discrepancy reporting.
+
+IC subnets interoperable with eIDAS, European blockchain infrastructure distributed nodes, could enable clear-line-of-liability for service EU cross-border access to ePublic services and eCommerce.
+
+
+tokenized value creation that benefits the individual. 
+
+Regulated to only specific canister automated-workflows for the user, which may require selectively-disclosed data access consent--transparent regulatory assurances and GDPR complaint, eIDAS interoperable consent logs: access logs, error logs, and security audit logs—enabling real-time discrepancy reporting.
+
+IC subnets interoperable with eIDAS, European blockchain infrastructure distributed nodes, could enable clear-line-of-liability for service EU cross-border access to ePublic services and eCommerce.
+
+The eIDAS2 Toolbox using FIDO2 in a federated eIDAS-Node SAMLv2 environment. 
 
 “Without too much fanfare, the European Commission has recently put forward plans that might cause the largest leap forward in the European digital identity scene in the past twenty years” 
 
