@@ -1,8 +1,10 @@
-Positioning NFID as the Internet Computer "Gold-Standard" Key-Management plug-in across the European Free Trade Association (EFTA) / European Economic Area (EEA) in advance of the September 2022 eIDAS2 'toolbox' release is the primary focus of this updated Swiss Electronic Identification (eID) Use Case.
+Positioning NFID FIDO2-WebAuthn as the Internet Computer, Service Nervous System "Gold-Standard" Key-Management plug-in across the European Free Trade Association (EFTA) / European Economic Area (EEA) in advance of the September 2022 eIDAS2 'toolbox' release: the primary focus of this updated Swiss Electronic Identification (eID) Use Case.
 
-The Dfinity Internet Identity Anchor ~/.config/dfx/identity/<identity_name>/identity.pem 
+ ~/.config/dfx/identity/<identity_name>/identity.pem 
 
-in its current realease as well as NFID offers a more privacy-proserving and scalable onboarding and secure key management then the eIDAS2 Toolbox proposed use of FIDO2 in a federated eIDAS-Node SAMLv2 environment. 
+In its current release, the Dfinity Internet Identity Anchor provides NFID a more privacy-preserving and scalable onboarding and a secure key management infrastructure than the eIDAS2 Toolbox using FIDO2 in a federated eIDAS-Node SAMLv2 environment. 
+
+"Without too much fanfare, the European Commission has recently put forward plans that might cause the largest leap forward in the European digital identity scene in the past twenty years."  
 
 “Without too much fanfare, the European Commission has recently put forward plans that might cause the largest leap forward in the European digital identity scene in the past twenty years” 
 
@@ -107,6 +109,10 @@ By monetizing the wave of NexGen eTrust Regulation guidelines on enforcement in 
 ° the European Blockchain Services Infrastructure (EBSI)
 
 ° the Standard contractual Clauses (SCC)
+
+° the EU-U.S. Privacy Shield Framework
+
+° the Schrems II Judgment
 
 ° the new electronic IDentification, Authentic and trust Services (eIDAS 2.0)
 
