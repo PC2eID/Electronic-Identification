@@ -1,5 +1,17 @@
 
-NFID-Suisse eID (Electronic Identification) with FIDO2-WebAuthn standards, deployed in compliance with EU regulations, would exceed the Self-Sovereign Identity goals of the European Digital Identity Wallet mandates in advance of the September 2022 eIDAS2 'toolbox' release.
+NFID-Suisse, FIDO2-WebAuthn, Dfinity Internet Identity Layer, deployed in compliance with EU regulations, would exceed the Self-Sovereign Identity goals of the European Digital Identity Wallet in advance of the September 2022 eIDAS2 'toolbox' release. 
+
+The March 7, 2021 Swiss E-ID (Electronic Identification) referendum rejected the Federal Law on a private sector issued national eID services. 
+
+A new proposal consultation on the Swiss government issed E-ID, the Federal Law on Electronic Proof of Identity and Other Electronic Evidence (BGEID) will last until October 2022.
+
+A collaborative Use Case proposes to design the NFID autonomous by default onboarding and key management as a  
+
+(re)usable EIRA© (European Interoperability Reference Architecture) Solution Building Block (SBB) that maps to Architecture Building Blocks (ABBs) of EIRA© 
+
+The NFID-Suisse SBB Gateway would offer eIDAS 2.0 and the BGEID a low-cost, low-effort implementation of the FIDO2 standard, consisting of the W3C WebAuthn standard and the FIDO Client to Authenticator Protocol (CTAP),  
+
+Deploying the NFID pluggable web-browser interface from Crypto Valley as EIRA© SBB. 
 
  ~/.config/dfx/identity/<identity_name>/identity.pem 
 
