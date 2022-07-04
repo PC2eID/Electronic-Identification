@@ -1,5 +1,20 @@
+The new Web3 Choice to Monetise PID (Personal Identifiable Data)
+
+Considering all the online data set structures, PID has the highest potential to create value: disintermediate revenue generation for individuals EU citizens.
+
+"Without too much fanfare, the European Commission has recently put forward plans that might cause the largest leap forward in the European digital identity scene in the past twenty years." https://www.ubisecure.com/authentication/european-digital-identity-framework/
+
+Leveraging NFID and Dfinity Internet Computer in convergence with European data privacy guard rails ultimately will minimize the Web attack surface and eliminate passwords and username vulnerabilities.  
+
+The addition of private sector Digital Identity Service providers in the EEA/EFTA market delivers a greenfield trust ecosystem ideal for inbuild anonymous by default Web3 multi-factor authentication to drive adoption of the IC's promise of personal data ownership.
+
+The opportunities for EU Web3 startups to turn data protection regulations into revenue "...are too good to ignore."
 
 NFID-Suisse, FIDO2-WebAuthn, Dfinity Internet Identity Layer, deployed in compliance with EU regulations, would exceed the Self-Sovereign Identity goals of the European Digital Identity Wallet in advance of the September 2022 eIDAS2 'toolbox' release. 
+
+
+
+Considering all the Online data set structures, PID has the highest potential to create value: disintermediate revenue generation for individuals. 
 
 The March 7, 2021 Swiss E-ID (Electronic Identification) referendum rejected the Federal Law on a private sector issued national eID services. 
 
@@ -29,9 +44,9 @@ Regulated to only specific canister automated workflows for the user, which may 
 
 IC subnets interoperable with eIDAS, European blockchain infrastructure distributed nodes, will enable clear-line-of-liability for EU citizens' cross-border access to ePublic services and eCommerce.
 
-"Without too much fanfare, the European Commission has recently put forward plans that might cause the largest leap forward in the European digital identity scene in the past twenty years." 
 
-https://www.ubisecure.com/authentication/european-digital-identity-framework/
+
+
 
 "With eIDAS 2.0, the EU Commission intends to make cross-border e-ID a reality. In a nutshell, by 2023, every EU member state must make a Digital Identity Wallet available to every citizen who wants one." 
 
